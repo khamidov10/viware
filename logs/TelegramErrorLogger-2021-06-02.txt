@@ -1,0 +1,312 @@
+============[Date]============
+[ 2021-06-02 01:25:32  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= ❌ 2021-05-28 04:02:58 dagi №15 sonli buyurtma buruyrtmachi tomonidan bekor qilindi
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/_app/_3/_orders.php(14): Telegram->sendMessage()
+#4 /home/admin/web/viware.uz/public_html/_app/_type_3.php(85): include('/home/admin/web...')
+#5 /home/admin/web/viware.uz/public_html/index.php(46): include('/home/admin/web...')
+#6 {main}
+
+============[Date]============
+[ 2021-06-02 01:27:08  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= ❌ 2021-05-28 04:02:58 dagi №15 sonli buyurtma buyurtmachi tomonidan bekor qilindi
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/_app/_3/_orders.php(14): Telegram->sendMessage()
+#4 /home/admin/web/viware.uz/public_html/_app/_type_3.php(85): include('/home/admin/web...')
+#5 /home/admin/web/viware.uz/public_html/index.php(46): include('/home/admin/web...')
+#6 {main}
+
+============[Date]============
+[ 2021-06-02 01:28:09  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= ❌ 2021-05-28 04:02:58 dagi №15 sonli buyurtma buyurtmachi tomonidan bekor qilindi
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/_app/_3/_orders.php(14): Telegram->sendMessage()
+#4 /home/admin/web/viware.uz/public_html/_app/_type_3.php(85): include('/home/admin/web...')
+#5 /home/admin/web/viware.uz/public_html/index.php(46): include('/home/admin/web...')
+#6 {main}
+
+============[Date]============
+[ 2021-06-02 10:34:46  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 644323455
+ref.my_chat_member.chat.id= 613895980
+ref.my_chat_member.chat.first_name= Khamidov
+ref.my_chat_member.chat.type= private
+ref.my_chat_member.from.id= 613895980
+ref.my_chat_member.from.is_bot= false
+ref.my_chat_member.from.first_name= Khamidov
+ref.my_chat_member.date= 1622630086
+ref.my_chat_member.old_chat_member.user.id= 1713831536
+ref.my_chat_member.old_chat_member.user.is_bot= true
+ref.my_chat_member.old_chat_member.user.first_name= ViWare
+ref.my_chat_member.old_chat_member.user.username= viwarebot
+ref.my_chat_member.old_chat_member.status= member
+ref.my_chat_member.new_chat_member.user.id= 1713831536
+ref.my_chat_member.new_chat_member.user.is_bot= true
+ref.my_chat_member.new_chat_member.user.first_name= ViWare
+ref.my_chat_member.new_chat_member.user.username= viwarebot
+ref.my_chat_member.new_chat_member.status= kicked
+ref.my_chat_member.new_chat_member.until_date= 0
+
+
+[ref]
+ref.chat_id= 
+ref.text= Sizning telegram id:
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/__tgApi.php(9): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2021-06-02 10:34:47  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 644323455
+ref.my_chat_member.chat.id= 613895980
+ref.my_chat_member.chat.first_name= Khamidov
+ref.my_chat_member.chat.type= private
+ref.my_chat_member.from.id= 613895980
+ref.my_chat_member.from.is_bot= false
+ref.my_chat_member.from.first_name= Khamidov
+ref.my_chat_member.date= 1622630086
+ref.my_chat_member.old_chat_member.user.id= 1713831536
+ref.my_chat_member.old_chat_member.user.is_bot= true
+ref.my_chat_member.old_chat_member.user.first_name= ViWare
+ref.my_chat_member.old_chat_member.user.username= viwarebot
+ref.my_chat_member.old_chat_member.status= member
+ref.my_chat_member.new_chat_member.user.id= 1713831536
+ref.my_chat_member.new_chat_member.user.is_bot= true
+ref.my_chat_member.new_chat_member.user.first_name= ViWare
+ref.my_chat_member.new_chat_member.user.username= viwarebot
+ref.my_chat_member.new_chat_member.status= kicked
+ref.my_chat_member.new_chat_member.until_date= 0
+
+
+[ref]
+ref.chat_id= 
+ref.text= 
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/__tgApi.php(11): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2021-06-02 10:34:47  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 644323455
+ref.my_chat_member.chat.id= 613895980
+ref.my_chat_member.chat.first_name= Khamidov
+ref.my_chat_member.chat.type= private
+ref.my_chat_member.from.id= 613895980
+ref.my_chat_member.from.is_bot= false
+ref.my_chat_member.from.first_name= Khamidov
+ref.my_chat_member.date= 1622630086
+ref.my_chat_member.old_chat_member.user.id= 1713831536
+ref.my_chat_member.old_chat_member.user.is_bot= true
+ref.my_chat_member.old_chat_member.user.first_name= ViWare
+ref.my_chat_member.old_chat_member.user.username= viwarebot
+ref.my_chat_member.old_chat_member.status= member
+ref.my_chat_member.new_chat_member.user.id= 1713831536
+ref.my_chat_member.new_chat_member.user.is_bot= true
+ref.my_chat_member.new_chat_member.user.first_name= ViWare
+ref.my_chat_member.new_chat_member.user.username= viwarebot
+ref.my_chat_member.new_chat_member.status= kicked
+ref.my_chat_member.new_chat_member.until_date= 0
+
+
+[ref]
+ref.chat_id= 
+ref.text= Ushbu ID raqam ro'yxatdan o'tish davomida ko'rsatib o'tiladi.
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/__tgApi.php(13): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2021-06-02 10:35:05  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 644323456
+ref.my_chat_member.chat.id= 613895980
+ref.my_chat_member.chat.first_name= Khamidov
+ref.my_chat_member.chat.type= private
+ref.my_chat_member.from.id= 613895980
+ref.my_chat_member.from.is_bot= false
+ref.my_chat_member.from.first_name= Khamidov
+ref.my_chat_member.from.language_code= ru
+ref.my_chat_member.date= 1622630105
+ref.my_chat_member.old_chat_member.user.id= 1713831536
+ref.my_chat_member.old_chat_member.user.is_bot= true
+ref.my_chat_member.old_chat_member.user.first_name= ViWare
+ref.my_chat_member.old_chat_member.user.username= viwarebot
+ref.my_chat_member.old_chat_member.status= kicked
+ref.my_chat_member.old_chat_member.until_date= 0
+ref.my_chat_member.new_chat_member.user.id= 1713831536
+ref.my_chat_member.new_chat_member.user.is_bot= true
+ref.my_chat_member.new_chat_member.user.first_name= ViWare
+ref.my_chat_member.new_chat_member.user.username= viwarebot
+ref.my_chat_member.new_chat_member.status= member
+
+
+[ref]
+ref.chat_id= 
+ref.text= Sizning telegram id:
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/__tgApi.php(9): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2021-06-02 10:35:05  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 644323456
+ref.my_chat_member.chat.id= 613895980
+ref.my_chat_member.chat.first_name= Khamidov
+ref.my_chat_member.chat.type= private
+ref.my_chat_member.from.id= 613895980
+ref.my_chat_member.from.is_bot= false
+ref.my_chat_member.from.first_name= Khamidov
+ref.my_chat_member.from.language_code= ru
+ref.my_chat_member.date= 1622630105
+ref.my_chat_member.old_chat_member.user.id= 1713831536
+ref.my_chat_member.old_chat_member.user.is_bot= true
+ref.my_chat_member.old_chat_member.user.first_name= ViWare
+ref.my_chat_member.old_chat_member.user.username= viwarebot
+ref.my_chat_member.old_chat_member.status= kicked
+ref.my_chat_member.old_chat_member.until_date= 0
+ref.my_chat_member.new_chat_member.user.id= 1713831536
+ref.my_chat_member.new_chat_member.user.is_bot= true
+ref.my_chat_member.new_chat_member.user.first_name= ViWare
+ref.my_chat_member.new_chat_member.user.username= viwarebot
+ref.my_chat_member.new_chat_member.status= member
+
+
+[ref]
+ref.chat_id= 
+ref.text= 
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/__tgApi.php(11): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2021-06-02 10:35:05  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 644323456
+ref.my_chat_member.chat.id= 613895980
+ref.my_chat_member.chat.first_name= Khamidov
+ref.my_chat_member.chat.type= private
+ref.my_chat_member.from.id= 613895980
+ref.my_chat_member.from.is_bot= false
+ref.my_chat_member.from.first_name= Khamidov
+ref.my_chat_member.from.language_code= ru
+ref.my_chat_member.date= 1622630105
+ref.my_chat_member.old_chat_member.user.id= 1713831536
+ref.my_chat_member.old_chat_member.user.is_bot= true
+ref.my_chat_member.old_chat_member.user.first_name= ViWare
+ref.my_chat_member.old_chat_member.user.username= viwarebot
+ref.my_chat_member.old_chat_member.status= kicked
+ref.my_chat_member.old_chat_member.until_date= 0
+ref.my_chat_member.new_chat_member.user.id= 1713831536
+ref.my_chat_member.new_chat_member.user.is_bot= true
+ref.my_chat_member.new_chat_member.user.first_name= ViWare
+ref.my_chat_member.new_chat_member.user.username= viwarebot
+ref.my_chat_member.new_chat_member.status= member
+
+
+[ref]
+ref.chat_id= 
+ref.text= Ushbu ID raqam ro'yxatdan o'tish davomida ko'rsatib o'tiladi.
+
+
+============[Trace]===========
+#0 /home/admin/web/viware.uz/public_html/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/admin/web/viware.uz/public_html/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/admin/web/viware.uz/public_html/Telegram.php(196): Telegram->endpoint()
+#3 /home/admin/web/viware.uz/public_html/__tgApi.php(13): Telegram->sendMessage()
+#4 {main}
+

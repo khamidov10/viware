@@ -1,0 +1,70 @@
+::-webkit-scrollbar {
+  width: 5px;
+  height: 2px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #8338ec;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #000000;
+}
+::-webkit-scrollbar-track {
+  background: #ffffff;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #666666;
+}
+::-webkit-scrollbar-track:active {
+  background: #333333;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+
+
+.h-full::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+	position: relative
+}
+.h-full::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+.h-full::-webkit-scrollbar-thumb {
+  background: #291E00;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+.h-full::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+.h-full::-webkit-scrollbar-thumb:active {
+  background: #000000;
+}
+.h-full::-webkit-scrollbar-track {
+  background: rgb(255,190,11);
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+.h-full::-webkit-scrollbar-track:hover {
+  background: #666666;
+}
+.h-full::-webkit-scrollbar-track:active {
+  background: #333333;
+}
+.h-full::-webkit-scrollbar-corner {
+  background: transparent;
+}

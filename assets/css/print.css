@@ -1,0 +1,11 @@
+@media print{
+
+    table{
+        border-collapse: collapse;
+        width: 95%;
+        margin:0 auto;
+    }
+    table,td,tr,thead,tbody{
+        border:1px solid #000;
+    }
+}
